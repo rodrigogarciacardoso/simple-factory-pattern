@@ -6,5 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>simple_factory_pattern</RootNamespace>
   </PropertyGroup>
-
+	
+	<ItemGroup>
+		<Folder Include="Controllers\" />
+	</ItemGroup>
+	
 </Project>
